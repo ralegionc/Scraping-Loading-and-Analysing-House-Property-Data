@@ -15,5 +15,5 @@ We will then again load this csv to our data warehouse snowflake, we will first 
 We will then convert polish titles to english using google sheets and google apis.
 Go to google developer console, create a project and then search for google drive api and google sheets api and enable it. we will then download the keys as a json file. We will then open the translate otodom python file, put the location of the json file and the google developer email.
 
-Then put the csv into snowflake again.
+Then put the csv into snowflake again and perform various queries
 
